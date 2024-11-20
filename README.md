@@ -1,5 +1,5 @@
 # SlideMasterCleanupForPPT
-
+Automatically remove unused master template slides 
 Keyboard shortcuts to create the script in PPT and then delete it.
 
 1. Copy my VBS script.
